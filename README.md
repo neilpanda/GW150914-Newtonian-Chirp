@@ -1,1 +1,3 @@
 # GW150914-Newtonian-Chirp
+
+This project aims to do two things: take open-source gravitational wave readings and perform my own signal-analysis pipeline on them in order to extract a gravitational wave signal; it also aims to verify this signal is that of a gravitational wave via a Newtonian chirp data analysis treatment and parameter estimation, from which the results are compared to the data collected by LIGO during its discovery of gravitational waves and black hole mergers via the GW150914-event. This indirectly means, this project will compare a general relativity model against a classical one - meaning statistical testing should be used to evaluate the effectiveness of a classical Newtonian chirp to represent this extreme event.
